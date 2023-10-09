@@ -10,7 +10,7 @@
       "outputs": ["{options.outputPath}"],
       "options": {
         "outputPath": "dist/apps/crud",
-        "index": "apps/crud/src/index.html",
+
         "main": "apps/crud/src/main.ts",
         "polyfills": "apps/crud/src/polyfills.ts",
         "tsConfig": "apps/crud/tsconfig.app.json",
